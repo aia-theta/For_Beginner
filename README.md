@@ -3,10 +3,16 @@ Lectures for Beginners
 
 --
 
-1. Basic Coding
+### Basic Coding
 * [Python @ Codeacademy](https://www.codecademy.com/learn/learn-python)
 * [R- Series of R-programming](https://www.coursera.org/learn/r-programming)
 * [Git operation](https://www.codecademy.com/learn/learn-git)
 
---
-2. Learning Path
+### Learning Path
+* [Comprehensive learning path – Data Science in Python](https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/)
+* [AI Learning path](https://buzzorange.com/techorange/2017/08/21/the-best-ai-lesson/)
+* [Why Coding is so damn hard](https://buzzorange.com/techorange/2017/12/19/learn-coding-4-steps/)
+
+### Basic ML/DL
+* [Classic ML problem, Titanic](https://www.kaggle.com/c/titanic )
+
