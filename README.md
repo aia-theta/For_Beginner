@@ -1,8 +1,6 @@
 # For_Beginner
 Lectures for Beginners
 
---
-
 ### Basic Coding
 * [Python @ Codeacademy](https://www.codecademy.com/learn/learn-python)
 * [R- Series of R-programming](https://www.coursera.org/learn/r-programming)
