@@ -15,6 +15,9 @@ Lectures for Beginners
 * [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 * [ML/DL by NTU Hung-yi Lee](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ)
 
+### Books
+* [Deep learning](http://www.deeplearningbook.org/)
+
 ### Basic ML/DL
 * [Classic ML problem, Titanic](https://www.kaggle.com/c/titanic )
 
