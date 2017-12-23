@@ -21,3 +21,7 @@ Lectures for Beginners
 ### Basic ML/DL
 * [Classic ML problem, Titanic](https://www.kaggle.com/c/titanic )
 
+### Other useful pages
+* [Keras Blog](https://blog.keras.io/index.html)
+* [Standford-CS20SI for tensorflow coding](https://www.youtube.com/watch?v=g-EvyKpZjmQ&index=1&list=PLQ0sVbIj3URf94DQtGPJV629ctn2c1zN-)
+* [Standford-CS231n](http://cs231n.stanford.edu/syllabus.html)
