@@ -28,3 +28,6 @@ Lectures for Beginners
 
 ### Case Study
 * [Kaggle-Zillow](https://www.kaggle.com/philippsp/exploratory-analysis-zillow)
+
+### Study Group / Papers / Summaries
+* [ResNet and DenseNet - 暑期實習生分享](https://github.com/aia-theta/For_Beginner/blob/master/Source_files/Restnet_DenseNet_by_ZaynLiu.pdf)
