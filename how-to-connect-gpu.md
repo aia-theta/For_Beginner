@@ -20,7 +20,7 @@
 ![Step2](/Source_files/connect_to_server_step2.png)
 3. Open jupyter notebook from server
 * step3-1
-note that your port number should be unique (suggest > 8001)
+note that your **port number should be unique** (suggest > 8001)
 ![Step3_1](/Source_files/connect_to_server_step3_1.png)
 * step3-2
 ![Step3_2](/Source_files/connect_to_server_step3_2.png)
