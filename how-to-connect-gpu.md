@@ -10,8 +10,11 @@
   * Please contact to Catding or Sean
   
 ### Steps
-#### Windows
 1. Open Putty
+* For Windows
+![Step1_for_Win](/Source_files/connect_to_server_step1_win.png)
+* For Liniux
+![Step1_for_Linux](/Source_files/connect_to_server_step1_linux.png)
 
 2. Key in Server IP and type your account and password
 
