@@ -17,9 +17,19 @@
 ![Step1_for_Linux](/Source_files/connect_to_server_step1_linux.png)
 
 2. Key in Server IP and type your account and password
-
+![Step2](/Source_files/connect_to_server_step2.png)
 3. Open jupyter notebook from server
+* step3-1
+![Step3_1](/Source_files/connect_to_server_step3_1.png)
+* step3-2
+![Step3_2](/Source_files/connect_to_server_step3_2.png)
 
 4. Connect to jupyter notebook with your local environment
+* step4-1
+![Step4_1](/Source_files/connect_to_server_step4_1.png)
+* step4-2
+![Step4_2](/Source_files/connect_to_server_step4_2.png)
 
+5. Open a python environment
+![Step5](/Source_files/connect_to_server_step5.png)
 
