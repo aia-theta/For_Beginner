@@ -37,7 +37,7 @@ modify the "localhost" to "server ip" (for instance, 140.109.17.41 in this examp
 ![Step5](/Source_files/connect_to_server_step5.png)
 
 ## Important
-[How to setup GPU usage](https://github.com/vashineyu/slides_and_others/blob/master/tutorial/gpu_usage.pdf)
-** Your must set your GPU ID before run the model **
-Type **nvidia-smi** can help you know which GPU has been already taken.
+[How to setup GPU usage](https://github.com/vashineyu/slides_and_others/blob/master/tutorial/gpu_usage.pdf) <br>
+** Your must set your GPU ID before run the model ** <br>
+Type **nvidia-smi** can help you know which GPU has been already taken. <br>
 ![nvidia-smi](/Source_files/connect_to_server_step6.png)
