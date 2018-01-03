@@ -3,6 +3,7 @@ Lectures for Beginners
 
 ### Basic Coding
 * [Python @ Codeacademy](https://www.codecademy.com/learn/learn-python)
+* [Command-line basis @ Codeacademy](https://www.codecademy.com/learn/learn-the-command-line)
 * [R- Series of R-programming](https://www.coursera.org/learn/r-programming)
 * [Git operation](https://www.codecademy.com/learn/learn-git)
 
