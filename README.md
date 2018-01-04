@@ -19,17 +19,16 @@ Lectures for Beginners
 ### Books
 * [Deep learning](http://www.deeplearningbook.org/)
 
-### Basic ML/DL
-* [Classic ML problem, Titanic](https://www.kaggle.com/c/titanic )
-
 ### Other useful pages / techniques
 * [Keras Blog](https://blog.keras.io/index.html)
 * [Standford-CS20SI for tensorflow coding](https://www.youtube.com/watch?v=g-EvyKpZjmQ&index=1&list=PLQ0sVbIj3URf94DQtGPJV629ctn2c1zN-)
 * [Standford-CS231n](http://cs231n.stanford.edu/syllabus.html)
 * [Save your memory: A simple case of the data generator](https://github.com/vashineyu/slides_and_others/blob/master/tutorial/170817_keras_and_tensorflow_data_generator.pdf)
+* [Machine Learning FAQ](https://sebastianraschka.com/faq/index.html)
 
 ### Case Study
 * [Kaggle-Zillow](https://www.kaggle.com/philippsp/exploratory-analysis-zillow)
+* [Kaggle-Titanic](https://www.kaggle.com/c/titanic )
 
 ### Study Group / Papers / Summaries
 * [ResNet and DenseNet - 暑期實習生分享](https://github.com/aia-theta/For_Beginner/blob/master/Source_files/Restnet_DenseNet_by_ZaynLiu.pdf)
