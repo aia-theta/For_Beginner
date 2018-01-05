@@ -33,6 +33,11 @@ Lectures for Beginners
 ### Study Group / Papers / Summaries
 * [ResNet and DenseNet - 暑期實習生分享](https://github.com/aia-theta/For_Beginner/blob/master/Source_files/Restnet_DenseNet_by_ZaynLiu.pdf)
 
+### Group competitions
+[Moth - Altitude prediction](https://www.kaggle.com/t/e590617f80c14cf8beb9aa5373bb9c9f)
+- 用蛾的圖片預測生長海拔上下界
+- [Submission Here](https://www.kaggle.com/c/moth/leaderboard)
+
 ### Group Notify
 * [How to connect to GPU servers](https://github.com/aia-theta/For_Beginner/blob/master/how-to-connect-gpu.md)
 * [How to set up GPU usage](https://github.com/vashineyu/slides_and_others/blob/master/tutorial/gpu_usage.pdf)
